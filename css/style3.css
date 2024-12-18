@@ -1,0 +1,22 @@
+body{
+    background: #24353f;
+    height: 75vh;
+    font-size: 1rem;
+    font-weight: 400;
+    line-height: 1.5;
+    color: #17a2b8;
+    text-align: left;
+}
+.group {
+    box-shadow: -5px 2px 54px -9px rgba(0, 0, 0, 1);
+}
+.navbar-nav {
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-direction: column;
+    flex-direction: column;
+    padding-left:0;
+    margin-bottom: 0;
+    list-style: none;
+    margin-left:45rem;
+}
